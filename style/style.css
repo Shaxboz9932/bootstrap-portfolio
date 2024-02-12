@@ -1,0 +1,15 @@
+header .fixed{
+    width: 33%;
+    height: 100%;
+    background-color: rgba(53, 92, 160, 0.872);
+    position: fixed;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+} 
+header .fixed img{
+    width: 180px;
+}
